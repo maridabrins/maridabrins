@@ -1,16 +1,18 @@
-<br clear="both">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e3a1de&height=160&section=header"/>
 
-<h1 align="center">Hi, I´m Mariana Dabrins!</h1>
 
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e3a1de&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I´m+Mariana+Dabrins;I´m+16+years+old!;I+study+Systems+Development+at+SENAI+:%29)](https://git.io/typing-svg) 
+
 
 <div align="center">
-  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fko-fi.com%2Fs%2F539a55befc&psig=AOvVaw17EzG6SECYFtPH6OgNSBr-&ust=1739975264437000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCurpO3zYsDFQAAAAAdAAAAABAJ"  />
+  <img src="https://github.com/user-attachments/assets/d4c45653-3056-449e-847a-7299e508149e" width="80%" />
 </div>
+
+
 
 ###
 
-<h3 align="center">🌸 Languages ​​I'm studying:</h3>
+<h2 align="center">🌸 Languages ​​I'm studying:</h2>
 
 ###
 
@@ -28,11 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-###
 
-<h3 align="center">✨ Tools:</h3>
 
-###
+<h2 align="center">✨ Tools:</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge" height="40" alt="eclipseide logo"  />
@@ -63,7 +63,7 @@
 
 ###
 
-<h3 align="center">💻 Contact me:</h3>
+<h2 align="center">💻 Contact me:</h2>
 
 ###
 
@@ -76,4 +76,6 @@
   </a>
 </div>
 
-###
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e3a1de&height=120&section=footer"/>
+
