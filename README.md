@@ -23,7 +23,7 @@
 
 ###
 
-<h2 align="center">🌸 Languages ​​I'm studying:</h2>
+<h2 align="center">🌸 Studying in this moment:</h2>
 
 ###
 
