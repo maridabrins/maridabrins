@@ -12,6 +12,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maridabrins&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maridabrins&bg_color=3e3e3e&color=e3a1de&line=cb7ad6&point=cb7ad6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d4c45653-3056-449e-847a-7299e508149e" width="80%" />
 </div>
